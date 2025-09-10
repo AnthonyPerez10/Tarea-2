@@ -1,0 +1,14 @@
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\bin\Debug\net9.0\ProgramaStrings.exe
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\bin\Debug\net9.0\ProgramaStrings.deps.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\bin\Debug\net9.0\ProgramaStrings.runtimeconfig.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\bin\Debug\net9.0\ProgramaStrings.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\bin\Debug\net9.0\ProgramaStrings.pdb
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.AssemblyInfoInputs.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.AssemblyInfo.cs
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.csproj.CoreCompileInputs.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\refint\ProgramaStrings.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.pdb
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ProgramaStrings.genruntimeconfig.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\ProgramaStrings\ProgramaStrings\obj\Debug\net9.0\ref\ProgramaStrings.dll

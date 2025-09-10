@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\OperadoresLogicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56880398-EFB0-41C7-B5F6-0882C9D1D881}|OperadoresLogicos\\OperadoresLogicos.csproj|c:\\users\\flia perez\\desktop\\u.t.p\\4\u00B0 semestre 2025\\des. soft. iv\\programas\\operadoreslogicos\\operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56880398-EFB0-41C7-B5F6-0882C9D1D881}|OperadoresLogicos\\OperadoresLogicos.csproj|solutionrelative:operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\OperadoresLogicos\\OperadoresLogicos\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresLogicos\\Program.cs",
+              "ToolTip": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\OperadoresLogicos\\OperadoresLogicos\\Program.cs",
+              "RelativeToolTip": "OperadoresLogicos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:22:54.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

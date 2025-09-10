@@ -1,0 +1,14 @@
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\bin\Debug\net9.0\OperadorRelacional.exe
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\bin\Debug\net9.0\OperadorRelacional.deps.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\bin\Debug\net9.0\OperadorRelacional.runtimeconfig.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\bin\Debug\net9.0\OperadorRelacional.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\bin\Debug\net9.0\OperadorRelacional.pdb
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.AssemblyInfoInputs.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.AssemblyInfo.cs
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.csproj.CoreCompileInputs.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\refint\OperadorRelacional.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.pdb
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\OperadorRelacional.genruntimeconfig.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Programas\OperadorRelacional\OperadorRelacional\obj\Debug\net9.0\ref\OperadorRelacional.dll

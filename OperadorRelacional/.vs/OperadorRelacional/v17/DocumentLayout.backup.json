@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\OperadorRelacional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEE5B52-5D39-4132-B517-93F2BC8B63A4}|OperadorRelacional\\OperadorRelacional.csproj|c:\\users\\flia perez\\desktop\\u.t.p\\4\u00B0 semestre 2025\\des. soft. iv\\programas\\operadorrelacional\\operadorrelacional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEE5B52-5D39-4132-B517-93F2BC8B63A4}|OperadorRelacional\\OperadorRelacional.csproj|solutionrelative:operadorrelacional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\OperadorRelacional\\OperadorRelacional\\Program.cs",
+              "RelativeDocumentMoniker": "OperadorRelacional\\Program.cs",
+              "ToolTip": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\OperadorRelacional\\OperadorRelacional\\Program.cs",
+              "RelativeToolTip": "OperadorRelacional\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:40:01.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
